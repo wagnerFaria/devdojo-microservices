@@ -1,10 +1,10 @@
-package academy.devdojo.youtube.course;
+package academy.devdojo.youtube.core;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 //@SpringBootTest
-class CourseApplicationTests {
+class CoreApplicationTests {
 
 //	@Test
 	void contextLoads() {

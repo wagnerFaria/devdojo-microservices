@@ -1,4 +1,4 @@
-package academy.devdojo.youtube.course.endpoint.model;
+package academy.devdojo.youtube.core.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
